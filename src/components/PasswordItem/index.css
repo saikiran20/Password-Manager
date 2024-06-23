@@ -1,0 +1,55 @@
+.passwords-item {
+  display: flex;
+
+  border: 1px solid #b6c3ca;
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.initial {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f59e0b;
+  color: #ffffff;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.url {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0px;
+  text-align: start;
+}
+
+.name {
+  color: #ffffff;
+  margin: 0px;
+  text-align: start;
+}
+
+.pwd-img {
+  margin-top: 8px;
+  width: 130px;
+}
+
+.delete-btn {
+  background-color: transparent;
+  border: none;
+  margin-left: 600px;
+}
+
+.delete-img {
+  height: 20px;
+}
+.display-password {
+  color: #ffffff;
+  font-size: 14px;
+  text-align: start;
+}
